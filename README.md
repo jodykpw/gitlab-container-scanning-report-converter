@@ -43,7 +43,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Feel free to use this README.md for your repository.
 
 ## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
+If this project has helped save you time during development, I'd greatly appreciate a gesture of gratitude in the form of a cup of coffee :)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R2GUUDA73BHQG)
 

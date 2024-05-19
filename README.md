@@ -7,6 +7,10 @@ This Bash script converts GitLab container scanning reports in JSON format (`gl-
 - Bash
 - jq
 
+## Todo
+
+To utilise this script in a GitLab CI/CD pipeline, simply configure a job to execute the script, converting the GitLab container scanning report JSON to CSV and Markdown formats, and save the converted files as artifacts for easy download.
+
 ## Usage
 
 To use the script, follow these steps:

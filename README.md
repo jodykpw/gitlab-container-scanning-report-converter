@@ -42,9 +42,7 @@ This command will generate example.csv and example.md files in the same director
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to use this README.md for your repository.
+This project is licensed under the MIT License. 
 
 ## Donation
 If this project has helped save you time during development, I'd greatly appreciate a gesture of gratitude in the form of a cup of coffee :)
